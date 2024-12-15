@@ -4,7 +4,7 @@
 This project combines advanced deep learning techniques to predict the language spoken by a user and their race based on voice recordings and images. By processing both audio and image inputs, the system aims to output a tailored message welcoming users in their predicted language, such as "Welcome to the airport" in various languages (e.g., Korean, Spanish, Chinese, etc.).
 
 ## Project Details
-- **Created by**: Burak Okur and Ibrahim Halil Ozcakir
+- **Created by**: Ibrahim Halil Ozcakir and Burak Okur 
 - **Creation Date**: 2024-06-18
 
 ## Preprocessing Steps for Race Detection
