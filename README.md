@@ -43,7 +43,7 @@ This project combines advanced deep learning techniques to predict the language 
 This project serves as a starting point for integrating language and facial recognition into larger applications. Feel free to modify and expand this code for your needs. 
 
 ## Contact
-For any questions or suggestions, contact me at [burak1837burak@gmail.com].
+For any questions or suggestions, contact me at [i.hail14@hotmail.com].
 
 ## Visualizations
 
